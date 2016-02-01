@@ -1,6 +1,9 @@
 Overview
 ========
 
+The main repository is at:
+[https://github.com/LangProc/langproc_2015_cw](https://github.com/LangProc/langproc_2015_cw).
+
 The language processors coursework is to build a C compiler
 from the C90 language to MIPS assembly. It should be possible
 to assemble and link the output using existing tools and
