@@ -23,7 +23,7 @@ The marks break-down is:
 
 The overall timeline is shown below:
 
-![Timeline][timeline.png]
+![Timeline](timeline.png)
 
 It is not a good idea to assume that the final two weeks
 are sufficient time to complete a compiler.
