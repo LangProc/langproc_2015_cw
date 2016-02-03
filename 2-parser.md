@@ -62,9 +62,9 @@ As a simple example, the following function:
 should result in:
 
     FUNCTION : f
-        x
+        PARAMETER : x
     SCOPE
-        y
+        VARIABLE : y
 
 This code:
 
