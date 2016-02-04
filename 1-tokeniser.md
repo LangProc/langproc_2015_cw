@@ -107,7 +107,7 @@ that all instances `#define` and `#include` will already have been processed. Ho
 you may still see some input lines from the pre-processor. Create a simple
 file called `tmp.c`:
 
-    echo -e "#include <stdio.h>\nint main(){\n  printf("Wibble"); \n}\n" > tmp.c
+    echo -e "#include <stdio.h>\nint main(){\n  printf(\"Wibble\"); \n}\n" > tmp.c
     less tmp.c
 
 We can now pre-process it with `cpp`, the [GNU C Pre-Processor](https://gcc.gnu.org/onlinedocs/cpp/):
