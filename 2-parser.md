@@ -103,7 +103,7 @@ From your top-level directory, doing:
 
     make bin/c_parser
 
-should create a programe called... `bin/c_parser`.
+should create a programme called... `bin/c_parser`.
 
 
 
