@@ -87,7 +87,7 @@ would result in:
 
     FUNCTION : x
     SCOPE
-    VARIABLE : g
+        VARIABLE : g
     FUNCTION : zz
         PARAMETER : a
         PARAMETER : b
