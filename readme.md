@@ -20,7 +20,7 @@ The marks break-down is:
 
 2 - [Parser](2-parser.md) : 20%, Due 26th Feb
 
-3 - [Code Generation](3-code-generator.md) : 20%, Due 11th March
+3 - [Code Generation](3-code-generator.md) : 20%, Due Mon 14th March (Updated)
 
 4 - [Compiler](4-compiler.md) : 50%, Due Friday 25th March
 
