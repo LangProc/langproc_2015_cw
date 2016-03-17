@@ -11,7 +11,8 @@ Input Format
 The input format and constraints are the same as for the tokeniser, with
 the following restrictions:
 
-- the only data-type that will occur is `int`
+- the only data-type that will occur is `int`, with no qualifiers (such as
+  const, volatile, long, short, unsigned).
 
 - there are no control-flow statements
 
