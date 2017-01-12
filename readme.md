@@ -1,3 +1,6 @@
+NOTE: This is the 2015/2016 coursework, left here for interest's sake. 2016/2017
+will be in a different repo, and is slightly different.
+
 Overview
 ========
 
